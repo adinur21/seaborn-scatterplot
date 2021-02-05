@@ -4,7 +4,7 @@ Seaborn merupakan librari visualisasi data pada lingkungan Python yang bersifat 
 
 Author : Adi Nurrachman
 
-Universitas Islam Negeri Maulana Malik Ibrahim Malang
+Magister Teknik Informatika - Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 Dosen : Gunawan Budiprasetyo, ST, MMT, Ph.D
 
